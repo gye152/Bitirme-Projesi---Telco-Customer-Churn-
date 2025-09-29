@@ -25,9 +25,10 @@ Modeller, aşağıdaki performans ölçütleri ile değerlendirilmiştir:
 - F1-score  
 - ROC-AUC  
 
-## Klasörler
+## 📁 Klasörler
 - `notebooks/` → Çalışma defterleri  
 - `docs/tez.pdf` → Bitirme proje raporu  
 
-## Rapor
-Detaylı açıklamalar ve sonuçlar için: [Bitirme Projesi Raporu](docs/tez.pdf)
+## 📄 Proje Raporu
+Tüm sürecin detaylı açıklaması ve karşılaştırmalı sonuçlar için:
+[Bitirme Projesi Raporu](docs/tez.pdf)
