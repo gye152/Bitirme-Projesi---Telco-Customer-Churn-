@@ -1,6 +1,6 @@
 # 📊 Telco Customer Churn – Bitirme Projesi
 
-Bu proje, **makine öğrenmesi modelleri** kullanılarak Telco Customer Churn veri seti üzerinde müşteri kaybını tahmin etmek amacıyla yapılmıştır.  
+Bu proje, **makine öğrenmesi modelleri** kullanılarak **Telco Customer Churn** veri seti üzerinde müşteri kaybını tahmin etmek amacıyla yapılmıştır.  
 
 ## 🔍 Projenin Amacı
 - Bir telekomünikasyon şirketinin müşteri verilerini analiz ederek, hangi müşterilerin ayrılma ihtimalinin yüksek olduğunu öngörmek.
