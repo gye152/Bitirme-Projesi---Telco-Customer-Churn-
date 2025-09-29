@@ -1,13 +1,19 @@
-# Bitirme-Projesi---Telco-Customer-Churn-
+# Telco Customer Churn – Bitirme Projesi
 
-Bu proje, Telco Customer Churn veri seti üzerinde makine öğrenmesi kullanılarak yapılmıştır.
+Bu proje, **makine öğrenmesi modelleri** kullanılarak Telco Customer Churn veri seti üzerinde müşteri kaybını tahmin etmek amacıyla yapılmıştır.  
 
 ## Kullanılan Modeller
-- Logistic Regression
-- Decision Tree
-- Random Forest
-- SVC
-- XGBoost
+- Logistic Regression  
+- Decision Tree  
+- Random Forest  
+- SVC  
+- XGBoost  
 
-## Proje Raporu
-Detaylı bilgi için [tez.pdf](docs/tez.pdf) dosyasına bakabilirsiniz.
+Her model için hem temel hem de **SMOTE + threshold** uygulanmış sürümler çalıştırılmıştır.  
+
+## Klasörler
+- `notebooks/` → Çalışma defterleri  
+- `docs/tez.pdf` → Bitirme proje raporu  
+
+## Rapor
+Detaylı açıklamalar ve sonuçlar için: [Bitirme Projesi Raporu](docs/tez.pdf)
