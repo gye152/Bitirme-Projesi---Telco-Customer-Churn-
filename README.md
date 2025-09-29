@@ -1,8 +1,13 @@
-# Telco Customer Churn – Bitirme Projesi
+# 📊 Telco Customer Churn – Bitirme Projesi
 
 Bu proje, **makine öğrenmesi modelleri** kullanılarak Telco Customer Churn veri seti üzerinde müşteri kaybını tahmin etmek amacıyla yapılmıştır.  
 
-## Kullanılan Modeller
+## 🔍 Projenin Amacı
+- Bir telekomünikasyon şirketinin müşteri verilerini analiz ederek, hangi müşterilerin ayrılma ihtimalinin yüksek olduğunu öngörmek.
+- Farklı makine öğrenmesi modellerinin performanslarını karşılaştırmak.
+- Dengesiz veri setlerinde **SMOTE** ve **threshold ayarlamaları** ile performansı iyileştirmek.
+
+## 🤖 Kullanılan Modeller
 - Logistic Regression  
 - Decision Tree  
 - Random Forest  
