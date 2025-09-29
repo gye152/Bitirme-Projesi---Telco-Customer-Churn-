@@ -11,6 +11,15 @@ Bu proje, **makine öğrenmesi modelleri** kullanılarak Telco Customer Churn ve
 
 Her model için hem temel hem de **SMOTE + threshold** uygulanmış sürümler çalıştırılmıştır.  
 
+## 📈 Değerlendirme Metrikleri
+Modeller, aşağıdaki performans ölçütleri ile değerlendirilmiştir:
+
+- Accuracy  
+- Precision  
+- Recall  
+- F1-score  
+- ROC-AUC  
+
 ## Klasörler
 - `notebooks/` → Çalışma defterleri  
 - `docs/tez.pdf` → Bitirme proje raporu  
